@@ -24,7 +24,7 @@ int main()
 
 	for(auto v:v1)
 	{
-		cout << v.getemployee()<<" "<<v.getemployeew()<<endl;
+		cout << v.getEmployee()<<" "<<v.getWage()<<endl;
 	}
 	cout << endl;
 
