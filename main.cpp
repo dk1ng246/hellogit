@@ -1,6 +1,7 @@
 #include<iostream>
 #include<string>
 #include<vector>
+#include"payroll.h"
 using namespace std;
 
 int main()
