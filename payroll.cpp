@@ -6,7 +6,7 @@ string Payroll::getEmployee()
 {
 	return employee;
 }
-void Payroll::setEmployee(string s)
+void Payroll::setEmployee(string e)
 {
 	employee = e;
 }
