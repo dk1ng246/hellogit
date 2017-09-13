@@ -22,9 +22,9 @@ int main()
 	}
 	cout << endl;
 
-	for(int i=0; i<4; i++)
+	for(auto v:v1)
 	{
-		cout << v1[i]<< " ";
+		cout << v.getemployee()<<" "<<v.employeew()<<endl;
 	}
 	cout << endl;
 
