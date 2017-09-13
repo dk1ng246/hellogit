@@ -1,5 +1,6 @@
 #include"payroll.h"
 #include<string>
+using namespace std;
 
 string Payroll::getEmployee()
 {

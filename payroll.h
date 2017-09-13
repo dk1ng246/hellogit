@@ -1,5 +1,6 @@
 #include<iostream>
 #include<string>
+using namespace std;
 #ifndef PAYROLL_H
 #define PAYROLL_H
 
