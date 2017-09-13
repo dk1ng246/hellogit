@@ -1,5 +1,6 @@
-#include "Payroll.h'
+#include "payroll.h'
 #include <string>
+
 string Payroll::getEmployee()
 {
 	return employee;
