@@ -5,10 +5,10 @@ using namespace std;
 
 int main()
 {
-	srting employee;
+	string employee;
 	double employeew;
 	
-	vectoer<Payroll>v1;
+	vector<Payroll>v1;
 	for(int i=0; i<4; i++)
 	{
 		cout << "Enter employee's name";
