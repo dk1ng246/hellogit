@@ -1,5 +1,8 @@
+#include<iostream>
+#include<string>
 #ifndef PAYROLL_H
 #define PAYROLL_H
+
 class Payroll
 {
 	private:
