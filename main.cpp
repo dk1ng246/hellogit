@@ -16,7 +16,7 @@ int main()
 		cout << "Enter employee's wage";
 		cin >> employeew;
 
-		PayRoll newEmployee(employee, employeew);
+		Payroll newEmployee(employee, employeew);
 		v1.push_back(newEmployee);
 	}
 	cout << endl;
