@@ -14,7 +14,7 @@ class Payroll
 	Payroll(string e, double w);
 	string getEmployee();
 	void setEmployee(string);
-	int getWage();
+	double getWage();
 	void setWage(double);
 };
 #endif

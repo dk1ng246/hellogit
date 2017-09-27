@@ -15,7 +15,7 @@ double Payroll::getWage()
 {
 	return wage;
 }
-void Payroll::SetWage(double w)
+void Payroll::setWage(double w)
 {
 	wage = w;
 }

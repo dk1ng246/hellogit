@@ -27,6 +27,6 @@ int main()
 		cout << v.getEmployee()<<" "<<v.getWage()<<endl;
 	}
 	cout << endl;
-
+	
 	return 0;
 }
